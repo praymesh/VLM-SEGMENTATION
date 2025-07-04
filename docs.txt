@@ -1,1 +1,0 @@
-Approaches: Integrating Siglip 2 with existing techqniques for Zero - Shot Semantic Segmentation
